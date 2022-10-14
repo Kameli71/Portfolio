@@ -124,9 +124,9 @@ function About() {
               </PText>
             </div>
             <a
-              target="_blank"
               href="https://www.fichier-pdf.fr/2022/10/14/kameli-karim"
-              rel="noreferrer"
+              target="_blank"
+              rel="noopener noreferrer"
             >
               <h1 className="about-cv">Mon CV</h1>
             </a>

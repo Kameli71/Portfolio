@@ -225,7 +225,7 @@ function HeroSection() {
                     className="logo-gh"
                     href="https://www.github.com/Kameli71"
                     target="_blank"
-                    rel="noreferrer"
+                    rel="noopener noreferrer"
                   >
                     <AiOutlineGithub />
                   </a>
@@ -235,7 +235,7 @@ function HeroSection() {
                     className="logo-li"
                     href="https://www.linkedin.com/in/karim-kameli-4a7992218/"
                     target="_blank"
-                    rel="noreferrer"
+                    rel="noopener noreferrer"
                   >
                     <AiOutlineLinkedin />
                   </a>

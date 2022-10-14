@@ -58,7 +58,7 @@ function Map() {
             className="map-card-link"
             href="https://www.google.fr/maps/@46.6714624,4.358144,14z"
             target="_blank"
-            rel="noreferrer"
+            rel="noopener noreferrer"
           >
             Ouvrir Google Maps
           </a>

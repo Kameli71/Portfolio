@@ -48,7 +48,7 @@ function ProjectItem({
         className="project-item-img"
         target="_blank"
         href={link}
-        rel="noreferrer"
+        rel="noopener noreferrer"
       >
         <img src={img} alt="Odyssey" />
       </a>
