@@ -112,6 +112,7 @@ function About() {
                 fait pour moi c'est pourquoi j'ai pris la décision de me lancer
                 dans une reconversion professionnelle.
                 <br />
+                <br />
                 Après avoir réalisé un bilan de compétences, les tests ont
                 confirmé mon penchant pour l'informatique. En effet, les
                 résultats ont démontré que j'étais plus attiré par les métiers
