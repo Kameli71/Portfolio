@@ -90,17 +90,17 @@ function AboutSection() {
             heading="About me"
           />
           <PText>
-            Je m'appelle Karim, Je sors tout juste d'une formation de
-            développeur web à la Wild Code School. J'ai exercé différents jobs
-            au cours de ma vie (Industrie, Bâtiment, vente...) mais rien qui me
-            plaisait vraiment. c'est pourquoi j'ai décidé de changer de vie et
-            trouver un job qui me plait réellement. Me voila à présent, J'étudie
-            différents languages de programmation et créé des projets vraiments
-            cools. Vous trouverez sur mon Portfolio les différents projets
+            Je m'appelle Karim, je sors tout juste d'une formation de
+            développeur web à la Wild Code School. J'ai exercé plusieurs jobs au
+            cours de ma vie (Industrie, Bâtiment, vente...) mais rien qui me
+            plaisait vraiment. C'est pourquoi j'ai décidé de changer de vie et
+            trouver un métier qui me plait réellement. Me voilà à présent,
+            j'étudie divers languages de programmation et créé des projets
+            pationnants. Vous trouverez sur mon Portfolio les différents projets
             auxquels j'ai participé et aussi plus d'informations à mon sujet.
-            J'ai plusieures passions, comme par exemple la lecture de novel, la
-            musique ou encore le sport. N'hesitez pas à me contacter si vous
-            avez besoin d'un développeur web.
+            J'ai plusieurs passions, notamment la lecture de novel, la musique
+            ou encore le sport. N'hesitez pas à me contacter si vous avez besoin
+            d'un développeur web.
           </PText>
           <div className="about-section-buttons">
             <Button btnLink="/myworks" btnText="Works" />

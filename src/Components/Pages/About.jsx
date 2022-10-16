@@ -102,29 +102,30 @@ function About() {
                 l'esprit.
                 <br />
                 <br />
-                J'ai étudié le managment au Lycée, Je n'ai jamais vraiment su ce
-                que je voulais faire de ma vie jusqu'a très récement. J'ai eu
-                une carrière professionnelle très diverse, J'ai commencé par
-                être téléconseiller, mais j'ai compris que ce n'était pas fait
-                pour moi. Je suis donc devenu rénnovateur en bâtiment. Après
-                avoir déménagé, j'ai du trouver le premier job qui se présentait
-                pour éviter de faire 200km de route chaque jour. J'ai fini
-                confectionneur de pneus pour le Génie civil chez Michelin. Une
-                fois de plus j'ai vite compris que ce n'était pas fait pour moi
-                et ai décidé d'entamer une reconversion professionnelle.
+                J'ai étudié le managment au Lycée, je n'ai jamais vraiment su ce
+                que je voulais faire de ma vie jusqu'à très récemment. J'ai eu
+                une carrière professionnelle diversifiée. J'ai commencé par être
+                téléconseiller, mais j'ai compris que ce n'était pas fait pour
+                moi. Je suis donc devenu rénnovateur en bâtiment. Pour finir je
+                suis devenu confectionneur de pneus pour le Génie civil chez
+                Michelin. Une fois de plus j'ai vite compris que ce n'était pas
+                fait pour moi c'est pourquoi j'ai pris la décision de me lancer
+                dans une reconversion professionnelle.
                 <br />
                 <br />
                 j'ai décidé d'entreprendre un bilan de compétences afin de
                 trouver un job qui me correspond parfaitement. j'ai toujours été
-                intéréssé par l'informatique et les nouvelles technologies. Les
-                différents tests effectués ont montré que j'tait plus attiré par
-                les méters créatifs et la programmation. C'est pourquoi j'ai
-                décidé de devenir un Développeur Web Full Stack. Je suis
-                parfaitement épanoui dans ce nouveau rôle.
+                intéréssé par l'informatique et les nouvelles technologies.
+                Après avoir réalisé un bilan de compétences, les tests ont
+                confirmé mon penchant pour l'informatique. En effet, les
+                résultats ont démontré que j'étais plus attiré par les métiers
+                créatifs et la programmation. C'est pourquoi j'ai décidé de
+                devenir un Développeur Web et je suis parfaitement épanoui dans
+                ce nouveau rôle.
               </PText>
             </div>
             <a
-              href="https://www.fichier-pdf.fr/2022/10/14/kameli-karim"
+              href="https://telecharger.fichier-pdf.fr/Vt684RME3DEHSoE7M23n0L7cpch58NuB1sy5b3TfzqOsus0i0J5aFO73wQeU47hOf2kTg9OOVt06n35Z1Nk6FJ7204wD3NvTDJhTGPBt1KEqdukP1557R70SCuorh94H/"
               target="_blank"
               rel="noopener noreferrer"
             >
