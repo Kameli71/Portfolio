@@ -5,8 +5,16 @@ import Cv from '../images/Cv.jpg';
 import Movie from '../images/movie.jpg';
 import Cesar from '../images/cesar.jpg';
 import Blog from '../images/blog.jpg';
+import Hangman from '../images/hangman.jpg';
 
 const projects = [
+  {
+    id: uuidv4(),
+    name: 'Jeu du pendu',
+    desc: 'Petit projet initiation TypeScript, Jeu du pendu, sous React/CSS/TS',
+    img: Hangman,
+    link: 'https://deadpool-agency-licorn.netlify.app',
+  },
   {
     id: uuidv4(),
     name: 'Deadpool agency',
@@ -33,7 +41,8 @@ const projects = [
   {
     id: uuidv4(),
     name: 'Ave César',
-    desc: 'Site réalisé lors de notre premier hackathon 24h, sous React/JS',
+    desc:
+      'Site réalisé lors de notre premier hackathon 24h non responsive, sous React/JS',
     img: Cesar,
     link: 'https://ave-cesar.netlify.app',
   },
